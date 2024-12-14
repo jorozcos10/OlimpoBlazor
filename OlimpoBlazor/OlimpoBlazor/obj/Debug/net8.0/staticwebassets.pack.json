@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OlimpoBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OlimpoBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OlimpoBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OlimpoBlazor.props",
+      "PackagePath": "build\\OlimpoBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OlimpoBlazor.props",
+      "PackagePath": "buildMultiTargeting\\OlimpoBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OlimpoBlazor.props",
+      "PackagePath": "buildTransitive\\OlimpoBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

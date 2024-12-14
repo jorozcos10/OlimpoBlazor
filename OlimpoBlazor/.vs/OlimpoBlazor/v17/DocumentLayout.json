@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\data\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\olimpoblazor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\olimpoblazor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\models\\metricasprogreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\models\\metricasprogreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|c:\\users\\amd\\desktop\\olimpo2\\olimpoblazor\\olimpoblazor\\migrations\\20241214221601_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC7BF88-EB0F-4B57-83AF-F92BACE9F7D9}|OlimpoBlazor\\OlimpoBlazor.csproj|solutionrelative:olimpoblazor\\migrations\\20241214221601_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221213_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OlimpoBlazor\\Migrations\\20241214221213_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221100_SyncWithDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OlimpoBlazor\\Migrations\\20241214221100_SyncWithDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221000_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OlimpoBlazor\\Migrations\\20241214221000_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214220719_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OlimpoBlazor\\Migrations\\20241214220719_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "OlimpoBlazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T22:54:42.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OlimpoBlazor",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\OlimpoBlazor.csproj",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\OlimpoBlazor.csproj",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\OlimpoBlazor.csproj",
+              "RelativeToolTip": "OlimpoBlazor\\OlimpoBlazor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T22:53:09.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\App.razor",
+              "RelativeToolTip": "OlimpoBlazor\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T22:50:36.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GymDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Data\\GymDbContext.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Data\\GymDbContext.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Data\\GymDbContext.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Data\\GymDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAewBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:40:18.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Program.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:35:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Usuario.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:41:15.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "OlimpoBlazor\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T22:50:34.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Clase.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Models\\Clase.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Clase.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Models\\Clase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:42:33.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\Routes.razor",
+              "RelativeToolTip": "OlimpoBlazor\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T22:50:37.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "OlimpoBlazor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T22:50:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\appsettings.json",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\appsettings.json",
+              "RelativeToolTip": "OlimpoBlazor\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T21:33:42.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\appsettings.Development.json",
+              "RelativeToolTip": "OlimpoBlazor\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T22:52:15.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Inventario.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Models\\Inventario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:43:29.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MetricasProgreso.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\MetricasProgreso.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Models\\MetricasProgreso.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\MetricasProgreso.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Models\\MetricasProgreso.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:44:04.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Reserva.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Models\\Reserva.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:43:12.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Models\\Factura.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Models\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:43:48.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241214221601_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221601_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Migrations\\20241214221601_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221601_InitialCreate.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Migrations\\20241214221601_InitialCreate.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwEUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:16:01.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241214221213_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221213_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Migrations\\20241214221213_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221213_InitialCreate.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Migrations\\20241214221213_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:12:14.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241214221100_SyncWithDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221100_SyncWithDatabase.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Migrations\\20241214221100_SyncWithDatabase.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221100_SyncWithDatabase.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Migrations\\20241214221100_SyncWithDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:11:00.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241214221000_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221000_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Migrations\\20241214221000_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214221000_InitialCreate.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Migrations\\20241214221000_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:10:01.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241214220719_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214220719_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OlimpoBlazor\\Migrations\\20241214220719_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\Migrations\\20241214220719_InitialCreate.cs",
+              "RelativeToolTip": "OlimpoBlazor\\Migrations\\20241214220719_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:07:20.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "Ri3oyMF0ADWZC79pT9ppjXHkcUGzU5U/T/cqvVbvWUY=",
+  "Source": "OlimpoBlazor",
+  "BasePath": "_content/OlimpoBlazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OlimpoBlazor\\wwwroot",
+      "Source": "OlimpoBlazor",
+      "ContentRoot": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\wwwroot\\",
+      "BasePath": "_content/OlimpoBlazor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\OlimpoBlazor.styles.css",
+      "SourceId": "OlimpoBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/OlimpoBlazor",
+      "RelativePath": "OlimpoBlazor.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\OlimpoBlazor.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OlimpoBlazor.bundle.scp.css",
+      "SourceId": "OlimpoBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/OlimpoBlazor",
+      "RelativePath": "OlimpoBlazor.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OlimpoBlazor.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\wwwroot\\app.css",
+      "SourceId": "OlimpoBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AMD\\Desktop\\Olimpo2\\OlimpoBlazor\\OlimpoBlazor\\wwwroot\\",
+      "BasePath": "_content/OlimpoBlazor",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

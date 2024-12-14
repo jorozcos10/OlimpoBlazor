@@ -1,0 +1,36 @@
+﻿@page "/"
+@using OlimpoBlazor.Data
+@using OlimpoBlazor.Models
+@using Microsoft.EntityFrameworkCore
+@inject GymDbContext DbContext
+
+<h3>Lista de Usuarios</h3>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Rol</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usuario in usuarios)
+        {
+            <tr>
+                <td>@usuario.Nombre</td>
+                <td>@usuario.Email</td>
+                <td>@usuario.Rol</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    private List<Usuario> usuarios = new List<Usuario>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        usuarios = await DbContext.Usuarios.ToListAsync();
+    }
+}
